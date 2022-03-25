@@ -37,27 +37,27 @@ features                                  :
 
   - title                                 : Diet-Free Weight Loss
     description                           : Fasting was found to be more effective than calorie restriction at increasing fat loss while simultaneously preserving muscle tissue.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : weight-scale
     
   - title                                 : Reduce Insulin Resistance
     description                           : Several studies have found that fasting may improve blood sugar control, which could be especially useful for those at risk of diabetes.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : star-of-life
 
   - title                                 : Increases Growth Hormone
     description                           : Human growth hormone (HGH) is a type of protein hormone that is central to many aspects of your health like Metabolism, Weight Loss and Muscle Strength.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : dumbbell
 
   - title                                 : Insights
     description                           : A powerful insight analyzer allows you to understand how different fasting stages improve your health and reduce body fat.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : chart-column
 
   - title                                 : Blood sugar
     description                           : Blood sugar analysis helps you understand how your insulin sensitivity changes during fasting intervals.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : candy
   
   - title                                 : Recommendations
     description                           : An intelligent recommendations system gives you hints on reducing weight and body fat.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : comment
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
