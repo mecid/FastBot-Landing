@@ -49,11 +49,11 @@ features                                  :
 
   - title                                 : Insights
     description                           : A powerful insight analyzer allows you to understand how different fasting stages improve your health and reduce body fat.
-    fontawesome_icon_name                 : chart-column
+    fontawesome_icon_name                 : chart-bar
 
   - title                                 : Blood sugar
     description                           : Blood sugar analysis helps you understand how your insulin sensitivity changes during fasting intervals.
-    fontawesome_icon_name                 : candy
+    fontawesome_icon_name                 : tablets
   
   - title                                 : Recommendations
     description                           : An intelligent recommendations system gives you hints on reducing weight and body fat.
