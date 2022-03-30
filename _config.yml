@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Diet-Free Weight Loss
     description                           : Fasting was found to be more effective than calorie restriction at increasing fat loss while simultaneously preserving muscle tissue.
-    fontawesome_icon_name                 : weight-scale
+    fontawesome_icon_name                 : balance-scale
     
   - title                                 : Reduce Insulin Resistance
     description                           : Several studies have found that fasting may improve blood sugar control, which could be especially useful for those at risk of diabetes.
