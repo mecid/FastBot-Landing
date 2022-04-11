@@ -52,7 +52,7 @@ features                                  :
     fontawesome_icon_name                 : chart-bar
 
   - title                                 : Get In Shape With Friends
-    description                           : Share your data with friends and motivate each other to reduce weight and body fat.
+    description                           : Add friends and share your data to reduce weight and body fat together by motivating each other.
     fontawesome_icon_name                 : users
   
   - title                                 : Recommendations
